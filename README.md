@@ -1,11 +1,12 @@
 <html lang="pt-br">
 <head>
+            body {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pirata Rei da Roleta - Sinais de Roleta</title>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <style>
-        body {
+
             background-image: url('https://img.freepik.com/fotos-gratis/ilustracao-3d-de-banner-de-pano-de-fundo-de-jogos-de-cassino-com-elementos-de-cassino-craps-roleta-e-cartas-de-poquer-generativas-ai_91128-2286.jpg?w=740&t=st=1693966102~exp=1693966702~hmac=a3ca5e6a370f38da9d57497584eac568f2df479e5212e7797afebe97e4b3c016');
             background-size: cover;
             background-position: center center;
