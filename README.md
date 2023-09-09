@@ -166,11 +166,7 @@
     </script>
 </body>
 </html>
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
         <title>Página de Venda</title>
         <style>
             body {
@@ -431,11 +427,6 @@
         </div>
     </section>
 
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Página de Venda</title>
         <style>
             body {
@@ -644,13 +635,7 @@
             </html>
             
         
-    
 
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Página de Venda</title>
         <style>
             body {
