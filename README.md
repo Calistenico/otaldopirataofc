@@ -164,8 +164,6 @@
             window.open(document.querySelector(id).getAttribute('href'));
         }
     </script>
-</body>
-</html>
 
         <title>Página de Venda</title>
         <style>
