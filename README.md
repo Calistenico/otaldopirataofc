@@ -163,7 +163,6 @@
             // Abre uma nova janela ou guia com o link do item clicado
             window.open(document.querySelector(id).getAttribute('href'));
         }
-    </script>
 
         <title>Página de Venda</title>
         <style>
