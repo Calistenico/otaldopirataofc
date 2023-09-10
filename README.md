@@ -164,13 +164,7 @@
     </script>
 
 
-        <title>Página de Venda</title>
-        <style>
-            body {
-                margin: 0;
-                padding: 0;
-                font-family: Arial, sans-serif;
-            }
+
     
             .image-text {
                 display: flex;
