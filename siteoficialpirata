@@ -598,11 +598,11 @@
                                     <h2 style="font-size: 36px; font-weight: bold; color: #ff5722;">🤖 Nossos Robôs Para Você!</h2>
                                     <p>Conheça nossos incríveis robôs, projetados para tornar sua vida mais fácil e eficaz:</p>
                                     <ul>
-                                        <li>🎯   Robô de Sinais de Roleta Brasileira 🤖:  
+                                        <li>🎯   Robô de Sinais de Roleta Brasileira 🤖: 74,99 R$ 
                                             Este poderoso robô oferece uma impressionante taxa de acertos de mais de 90% na Roleta Brasileira. Elimine perdas e maximize seus lucros com nossa estratégia sólida.</li>
-                                        <li>👍   Robô de Automatização de Curtidas no Instagram 🤖: 
+                                        <li>👍   Robô de Curtidas no Instagram 🤖: 34,99 R$  
                                              Aumente sua presença no Instagram de forma automática e eficaz. Nosso robô cuida das curtidas para você.</li>
-                                        <li>💬   Robô de Comentários em Posts do Instagram 🤖: 
+                                        <li>💬   Robô de Comentários no Instagram 🤖: 49,99 R$  
                                              Alcance um público maior e conquiste mais seguidores ou potenciais clientes comentando em posts relevantes. Uma maneira inteligente de expandir sua presença no Instagram.</li>
                                     </ul>
                                     <a href="https://api.whatsapp.com/send/?phone=554899626351&text&type=phone_number&app_absent=0" class="cta-button">Compre Agora</a>
