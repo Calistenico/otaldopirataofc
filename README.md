@@ -1,6 +1,6 @@
 <html lang="pt-br">
 <head>
-            body {
+body {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pirata Rei da Roleta - Sinais de Roleta</title>
