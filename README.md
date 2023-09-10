@@ -214,8 +214,7 @@ body {
                     
                     Imagine conquistar milhares de seguidores reais e interagir com uma audiência que adora o que você faz. Não perca tempo! Automatize suas redes sociais agora e veja sua influência crescer exponencialmente. Faça parte da revolução da mídia social.
                 </p>
-            </div>
-        </div>
+
     </body>
     </html>
     
