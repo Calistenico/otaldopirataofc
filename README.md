@@ -148,7 +148,7 @@
                 <li><a href="https://t.me/sinaisdaroletapirata">🎯 Sinais de Roleta</a></li>
                 <li><a href="https://wa.me/554899626351">📞 Contato</a></li>
                 <li><a href="https://m.kwai.com/user/150001037408979?fid=150001037408979&cc=COPY_LINK&language=pt-br&share_device_id=ANDROID_8ef9dcea21d12487&share_id=ANDROID_8ef9dcea21d12487_1694290150199&share_uid=150001037408979&timestamp=1694290150199&share_item_type=profile&share_item_info=150001037408979">📺 Vídeos</a></li>
-                <li><a href="#venda">🤖 Comprar Robos</a></li>
+                <li><a href="https://calistenico.github.io/Robos/">🤖 Comprar Robos</a></li>
                 <li><a href="https://www.magazinevoce.com.br/magazinedropshippingon/">🎮 Produtos</a></li>
                 <li><a href="https://calistenico.github.io/cursos/">🎓 Cursos</a></li>
             </ul>
@@ -606,7 +606,7 @@
                                         <li>💬   Robô de Comentários em Posts do Instagram 🤖: 
                                              Alcance um público maior e conquiste mais seguidores ou potenciais clientes comentando em posts relevantes. Uma maneira inteligente de expandir sua presença no Instagram.</li>
                                     </ul>
-                                    <a href="https://api.whatsapp.com/send/?phone=554899626351&text&type=phone_number&app_absent=0" class="cta-button">Compre Agora</a>
+                                    <a href="https://calistenico.github.io/Robos/" class="cta-button">Compre Agora</a>
                                 </div>
                             </div>
                         </section>
