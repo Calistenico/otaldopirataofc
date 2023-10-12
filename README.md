@@ -149,7 +149,7 @@
                 <li><a href="https://wa.me/554899626351">📞 Contato</a></li>
                 <li><a href="https://m.kwai.com/user/150001037408979?fid=150001037408979&cc=COPY_LINK&language=pt-br&share_device_id=ANDROID_8ef9dcea21d12487&share_id=ANDROID_8ef9dcea21d12487_1694290150199&share_uid=150001037408979&timestamp=1694290150199&share_item_type=profile&share_item_info=150001037408979">📺 Vídeos</a></li>
                 <li><a href="https://calistenico.github.io/Robos/">🤖 Comprar Robos</a></li>
-                <li><a href="https://www.magazinevoce.com.br/magazinedropshippingon/">🎮 Produtos</a></li>
+                <li><a href="https://comprasonline90.lojavirtualnuvem.com.br">🎮 Produtos</a></li>
                 <li><a href="https://calistenico.github.io/cursos/">🎓 Cursos</a></li>
             </ul>
         </nav>
